@@ -6,7 +6,7 @@ class Clock extends React.Component {
 
     render() {
         return (
-            <h1>Me</h1>
+            <h1>Me in</h1>
         )
     }
 
